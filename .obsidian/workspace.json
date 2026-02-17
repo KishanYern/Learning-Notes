@@ -11,10 +11,14 @@
             "id": "39aee7fbbb7f0fc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "C-Sharp Notes/Test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test"
             }
           }
         ]
@@ -180,6 +184,9 @@
   },
   "active": "98154bc72741623b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "C-Sharp Notes/Test.md",
+    "C-Sharp Notes",
     "create a link.md",
     "Welcome.md"
   ]
