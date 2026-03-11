@@ -23,3 +23,6 @@ class Program
 }
 ```
 
+# Learning Guide
+## Bro Code
+https://www.youtube.com/watch?v=wxznTygnRfQ
