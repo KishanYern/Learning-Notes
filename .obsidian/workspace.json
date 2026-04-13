@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40addd6017870021",
+        "id": "147bb00280b445c5",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d5bbbe41698ecf",
+            "id": "14a81d2e00706246",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Neetcode 150/Arrays & Hashing/Two Sum.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Two Sum"
             }
           }
         ]
@@ -177,7 +181,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "b4d5bbbe41698ecf",
+  "active": "14a81d2e00706246",
   "lastOpenFiles": [
     "Neetcode 150/Arrays & Hashing/Two Sum.md",
     "Neetcode 150/Arrays & Hashing/Valid Anagram.md",
