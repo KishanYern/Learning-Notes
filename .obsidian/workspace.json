@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode 150/Linked Lists/Linked List Cycle Detection (E).md",
+                "file": "Neetcode 150/Binary Search/Search 2D Matrix (M).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linked List Cycle Detection (E)"
+              "title": "Search 2D Matrix (M)"
             }
           }
         ]
@@ -184,6 +184,7 @@
   "active": "79729c9cee7379eb",
   "lastOpenFiles": [
     "Neetcode 150/Linked Lists/Linked List Cycle Detection (E).md",
+    "Neetcode 150/Binary Search/Search 2D Matrix (M).md",
     "Neetcode 150/Linked Lists/Merge Two Sorted Linked Lists (E).md",
     "Neetcode 150/Linked Lists/Reverse Linked List (E).md",
     "Neetcode 150/Binary Search/Binary Search (E).md",
@@ -216,7 +217,6 @@
     "C-Sharp Notes/Bro Code - Day 1.md",
     "Neetcode 150/Arrays & Hashing",
     "Neetcode 150",
-    "2026-03-10.md",
     "Untitled.base",
     "Untitled.canvas",
     "C-Sharp Notes"
